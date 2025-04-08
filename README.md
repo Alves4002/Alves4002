@@ -1,6 +1,6 @@
 -👋😄 Hi, I’m **D-SCRIPTOR**  
 - 👀 I’m interested in **programming, automation, and clean code**  
-- 🌱 I am currently studying Computer Engineering and Computer Science, learning new scripting and programming techniques and advanced software development. 
+- 🌱 I am currently studying Engineering Computer and IT 2 year, learning new scripting and programming techniques and advanced software development. 
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: diegodarosabfg@gmail.com  
 - ⚡ Fun fact: *"No meu código, até o erro obedece."😄*  
