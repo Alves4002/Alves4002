@@ -1,4 +1,4 @@
-👋😄 Hi, I'm **D-SCRIPTOR** 🇨🇻👌👨‍💻
+👋😄 Hi, I'm **♣️Young_.Kriol♠️** or **👨‍💻D_$CRIPTOR💻** 🇨🇻👌
 - 👀 I'm interested in **programming, automation and clean code**
 - 🌱 Currently studying Computer Engineering and IT, learning new scripting and programming techniques, as well as advanced software development.
 - 💞️ I'm looking to collaborate on open source projects
